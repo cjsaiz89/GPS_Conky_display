@@ -1,4 +1,4 @@
-# GPS_Conky_display
+# GPS_Conky_display_UDP
 
 Displays GPS information (streamed by an UDP network) and displays it in Conky for Linux.
 If there is a list of targets with their Lat and Lon position, it will also display de distance and time to reach the target.
