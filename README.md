@@ -3,7 +3,7 @@
 Displays GPS information (streamed by an UDP network) and displays it in Conky for Linux.
 If there is a list of targets with their Lat and Lon position, it will also display de distance and time to reach the target.
 
-https://github.com/cjsaiz89/GPS_Conky_display/blob/main/Conky_gps_display.png
+![name-of-you-image](https://github.com/cjsaiz89/GPS_Conky_display/blob/main/Conky_gps_display.png)
 
 **INSTRUCTIONS**
 
