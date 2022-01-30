@@ -30,7 +30,7 @@ Define the text color you want.
 6-Open the linux terminal (CTRL+ALT+t) and create a crontab to execute script on a schedule:
 EDITOR=nano crontab -e
 Add this line: 
-* * * * * python /home/user/Desktop/mypositionV4.1.py 
+"* * * * * python /home/user/Desktop/mypositionV4.1.py" 
 To execute the python script every minute
 Make sure the path to the script is correct or it won't be executed.
 
